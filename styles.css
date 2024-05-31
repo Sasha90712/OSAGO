@@ -168,7 +168,8 @@ th {
 	padding:0.5%;
 }
 #ll3 {
-	width:94% ;
+	width:94%;
+	font-size:130%;
 }
 #ll4 {
 	margin-top:1%;
@@ -181,4 +182,7 @@ table {
 	border:0.25em solid black;
 	width:93.5%;
 	margin:auto;
+}
+#ll6 {
+		font-size:130%;
 }

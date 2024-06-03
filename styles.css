@@ -186,3 +186,6 @@ table {
 #ll6 {
 		font-size:140%;
 }
+#bstavka , #KBM , #KVC , #button {
+	height:7em;
+}
